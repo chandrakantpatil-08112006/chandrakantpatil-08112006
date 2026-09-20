@@ -1,6 +1,10 @@
-<h1 align="center">👋 Hi, I'm Chandrakant Patil</h1>
+<p align="center">
+  <img alt="Hi, I'm Chandrakant Patil" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Chandrakant+Patil;Welcome+to+my+GitHub+profile" />
+</p>
 
-<h3 align="center">💻 Computer Science Engineering Student | MERN Stack Developer | AI & ML Enthusiast</h3>
+<p align="center">
+  <img alt="Computer Science Engineering Student | MERN Stack Developer | AI & ML Enthusiast" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=40&lines=%F0%9F%92%BB+Computer+Science+Engineering+Student;%F0%9F%8C%90+MERN+Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%A7%A0+DSA+%26+Problem+Solver" />
+</p>
 
 <p align="center">
   I'm a 3rd-year Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at <b>Gogte Institute of Technology, Belagavi</b>.<br>
@@ -137,10 +141,23 @@ I actively practice Data Structures & Algorithms to strengthen my problem-solvin
 
 I'm interested in building, learning, collaborating, and contributing to meaningful software projects.
 
-- 📫 **GitHub:** [@chandrakantpatil-08112006](https://github.com/chandrakantpatil-08112006)
-- 💼 **LinkedIn:** [linkedin.com/in/chandrakant-patil-884888330](https://www.linkedin.com/in/chandrakant-patil-884888330/)
-- 🧩 **LeetCode:** [leetcode.com/u/Chandrakantpatil](https://leetcode.com/u/Chandrakantpatil/)
-- 📧 **Email:** [chandrakantpatil08112006@gmail.com](mailto:chandrakantpatil08112006@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandrakant-patil-884888330/" title="LinkedIn">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="56" height="56" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Chandrakantpatil/" title="LeetCode">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="56" height="56" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:chandrakantpatil08112006@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="56" height="56" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>LinkedIn &nbsp;•&nbsp; LeetCode &nbsp;•&nbsp; Email</sub>
+</p>
 
 ⭐ Feel free to explore my repositories and connect with me!
 
