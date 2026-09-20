@@ -123,8 +123,8 @@ I actively practice Data Structures & Algorithms to strengthen my problem-solvin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chandrakantpatil-08112006&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakantpatil-08112006&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/chandrakantpatil-08112006?style=for-the-badge&logo=github&color=1f6feb" />
+  <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandrakantpatil-08112006&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 <p align="center">
@@ -137,7 +137,10 @@ I actively practice Data Structures & Algorithms to strengthen my problem-solvin
 
 I'm interested in building, learning, collaborating, and contributing to meaningful software projects.
 
-📫 **GitHub:** [@chandrakantpatil-08112006](https://github.com/chandrakantpatil-08112006)
+- 📫 **GitHub:** [@chandrakantpatil-08112006](https://github.com/chandrakantpatil-08112006)
+- 💼 **LinkedIn:** [linkedin.com/in/chandrakant-patil-884888330](https://www.linkedin.com/in/chandrakant-patil-884888330/)
+- 🧩 **LeetCode:** [leetcode.com/u/Chandrakantpatil](https://leetcode.com/u/Chandrakantpatil/)
+- 📧 **Email:** [chandrakantpatil08112006@gmail.com](mailto:chandrakantpatil08112006@gmail.com)
 
 ⭐ Feel free to explore my repositories and connect with me!
 
