@@ -98,6 +98,7 @@ I actively practice Data Structures & Algorithms to strengthen my problem-solvin
 
 - 🏅 **Runner-Up** – TECHNOTSAV 2K26 National Level Webathon
 - 👨‍💻 **Technical Lead** – AAIE (Association of AI Engineers)
+- 🧩 Solved **250+ LeetCode problems** while maintaining consistency
 - 📜 Completed industry-oriented certifications and learning in AI, Data Analytics, API Testing, and Web Development
 
 ---
